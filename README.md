@@ -1,5 +1,5 @@
 # Medical Insurance Project Repo
- Git repository for the medical insurance project
+ Git repository for the medical insurance project.
 
 This project is part of the Codecademy Python 3 and Data Science courses.
 
